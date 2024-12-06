@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+	<category label="Nastavení">
+        <setting label="Počet položek na stránku" type="slider" id="pagesize" range="1, 1, 10" default="30" option="int"/>
+        <setting label="Logovat požadavky" type="bool" id="log_requests" default="false"/>
+	</category>
+</settings>
